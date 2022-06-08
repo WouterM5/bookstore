@@ -1,16 +1,3 @@
-"""
-A program that stores book information
-Title, author,Year, isbn
-
-User can:
-
-view all
-search
-add
-update
-delete 
-close app
-"""
 from tkinter import *
 from tkinter import ttk
 from matplotlib.pyplot import text
